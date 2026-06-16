@@ -1,13 +1,12 @@
 ---
 name: camille-identite
-description: Utiliser ce skill lorsqu'une question concerne l'identité, le parcours général ou l'état civil de Camille.
+description: Utiliser ce skill lorsqu'une question concerne l'identité, le parcours global, le profil, les traits de personnalité ou les devises de Camille.
 ---
 
 # Skill - Camille Identité
 
-Ce skill décrit qui est Camille dans les grandes lignes.
+Ce skill décrit qui est Camille, sa personnalité, son rapport à l'erreur et ses devises de vie.
 
-## Détails
-* **Nom** : Camille
-* **Description générale** : Une personne dynamique et à l'écoute.
-* **Références supplémentaires** : Voir le dossier `references/` si existant pour plus de détails biographiques.
+## Fiches de référence
+* [Présentation générale](file:///c:/Users/user/git/camille/skills/camille-identite/references/presentation.md) : Présentation générale et traits fondamentaux.
+* [Personnalité et Devises](file:///c:/Users/user/git/camille/skills/camille-identite/references/personnalite.md) : Traits de personnalité, rapport à l'erreur, devises et passions.
