@@ -1,0 +1,6 @@
+# Git ignore rules for camille-skills
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+temp/
