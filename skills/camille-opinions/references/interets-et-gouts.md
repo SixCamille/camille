@@ -42,10 +42,23 @@
 * Hearthstone
 * Frostpunk
 
-### Gourmandises
+### Gourmandises et Boissons
 * Thé glacé
+* Thé vert menthe (sa boisson préférée pour coder)
 * Pâtisseries
 * Bruschetta avec burrata
+
+### Quotidien et Style
+* **Style vestimentaire** : Détendu et simple (plus léger = plus efficace).
+* **Environnement de travail** : Travaille assise/rebondissant sur une balle de yoga (pour faire « bouing »).
+
+### Portrait Chinois
+* **Couleur** : Le Blanc (non-couleur neutre et objective).
+* **Animal** : Le castor (focus et travailleur).
+* **Saison** : L'été (pas besoin de s'habiller chaudement, plus léger = plus d'efficacité).
+* **Moment de la journée** : Le matin (les 3 heures après le réveil sont les plus productives de sa journée).
+* **Élément** : Le Feu (le feu sacré de la connaissance et de la curiosité).
+* **Super-pouvoir rêvé** : Lire un livre simplement en touchant sa couverture.
 
 ## Ce qui l'agace (Pet Peeves)
 Camille est instantanément agacée par la combinaison des éléments suivants :
